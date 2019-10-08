@@ -1,0 +1,20 @@
+{
+  "editor.parameterHints.enabled": false,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.suggest.filterGraceful": false,
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.suggest.showIcons": false,
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.wordBasedSuggestions": false,
+  "html.suggest.html5": false,
+  "php.suggest.basic": false,
+  "javascript.suggest.autoImports": false,
+  "javascript.suggest.enabled": false,
+  "javascript.suggest.completeJSDocs": false,
+  "javascript.suggest.paths": false,
+  "javascript.suggestionActions.enabled": false,
+  "javascript.suggest.names": false,
+  "typescript.suggest.autoImports": false,
+  "typescript.suggest.completeJSDocs": false,
+  "typescript.suggest.enabled": false
+}
